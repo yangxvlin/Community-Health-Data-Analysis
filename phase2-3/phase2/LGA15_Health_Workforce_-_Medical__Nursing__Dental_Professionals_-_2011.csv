@@ -1,0 +1,81 @@
+enrl_nurse_2_rate, lga_name, lga_code, spec_2_rate
+542.1,"Alpine (S)",20110,null
+654.9,"Ararat (RC)",20260,null
+566.8,"Ballarat (C)",20570,145.7
+395.5,"Banyule (C)",20660,362.7
+452.1,"Bass Coast (S)",20740,null
+312.0,"Baw Baw (S)",20830,42.9
+246.8,"Bayside (C)",20910,100.9
+617.0,"Benalla (RC)",21010,null
+293.2,"Boroondara (C)",21110,153.3
+143.9,"Brimbank (C)",21180,40.6
+1128.2,"Buloke (S)",21270,null
+627.1,"Campaspe (S)",21370,null
+181.3,"Cardinia (S)",21450,null
+196.0,"Casey (C)",21610,27.1
+843.2,"Central Goldfields (S)",21670,null
+530.5,"Colac-Otway (S)",21750,null
+938.4,"Corangamite (S)",21830,null
+109.8,"Darebin (C)",21890,31.1
+378.3,"East Gippsland (S)",22110,24.0
+442.5,"Frankston (C)",22170,147.4
+882.7,"Gannawarra (S)",22250,null
+519.9,"Greater Bendigo (C)",22620,103.2
+294.2,"Greater Dandenong (C)",22670,120.0
+451.0,"Greater Geelong (C)",22750,130.1
+294.3,"Glen Eira (C)",22310,94.2
+660.2,"Glenelg (S)",22410,45.4
+107.6,"Golden Plains (S)",22490,null
+637.7,"Greater Shepparton (C)",22830,101.1
+612.5,"Hepburn (S)",22910,null
+1276.4,"Hindmarsh (S)",22980,null
+227.1,"Hobsons Bay (C)",23110,19.3
+715.0,"Horsham (RC)",23190,48.7
+130.4,"Hume (C)",23270,20.8
+622.6,"Indigo (S)",23350,null
+277.8,"Kingston (C)",23430,42.5
+291.8,"Knox (C)",23670,66.1
+351.6,"Latrobe (C)",23810,76.0
+538.4,"Loddon (S)",23940,null
+278.8,"Macedon Ranges (S)",24130,21.0
+148.7,"Manningham (C)",24210,31.1
+492.7,"Mansfield (S)",24250,null
+316.8,"Maribyrnong (C)",24330,193.1
+333.1,"Maroondah (C)",24410,85.5
+828.6,"Melbourne (C)",24600,1419.0
+128.8,"Melton (S)",24650,5.3
+380.1,"Mildura (RC)",24780,62.3
+352.2,"Mitchell (S)",24850,null
+589.0,"Moira (S)",24900,null
+298.6,"Monash (C)",24970,253.6
+153.5,"Moonee Valley (C)",25060,57.6
+228.4,"Moorabool (S)",25150,null
+171.1,"Moreland (C)",25250,52.8
+326.8,"Mornington Peninsula (S)",25340,36.2
+799.9,"Mount Alexander (S)",25430,null
+465.9,"Moyne (S)",25490,null
+405.8,"Murrindindi (S)",25620,null
+70.6,"Nillumbik (S)",25710,6.6
+630.0,"Northern Grampians (S)",25810,null
+177.8,"Port Phillip (C)",25900,308.2
+559.9,"Pyrenees (S)",25990,null
+274.4,"Queenscliffe (B)",26080,null
+422.3,"South Gippsland (S)",26170,null
+674.5,"Southern Grampians (S)",26260,69.9
+333.4,"Stonnington (C)",26350,501.7
+504.6,"Strathbogie (S)",26430,null
+203.4,"Surf Coast (S)",26490,null
+597.0,"Swan Hill (RC)",26610,35.2
+670.6,"Towong (S)",26670,null
+737.0,"Wangaratta (RC)",26700,155.9
+627.0,"Warrnambool (C)",26730,124.8
+422.5,"Wellington (S)",26810,37.1
+892.8,"West Wimmera (S)",26890,null
+348.4,"Whitehorse (C)",26980,178.2
+240.9,"Whittlesea (C)",27070,95.1
+387.8,"Wodonga (RC)",27170,66.0
+135.5,"Wyndham (C)",27260,22.3
+480.8,"Yarra (C)",27350,792.5
+169.9,"Yarra Ranges (S)",27450,8.1
+1181.7,"Yarriambiack (S)",27630,null
+null,"Unincorporated Vic",29399,null
